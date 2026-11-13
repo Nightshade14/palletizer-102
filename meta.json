@@ -9,7 +9,7 @@
     }
   ],
   "visibility": "private",
-  "url": "",
+  "url": "https://github.com/Nightshade14/palletizer-102",
   "description": "Modular generic service: palletizer. Picks and packs boxes.",
   "markdown_link": "README.md",
   "entrypoint": "dist/main",
